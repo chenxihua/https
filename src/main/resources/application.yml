@@ -1,0 +1,7 @@
+
+http:
+  socketTimeOut: 10000
+  connectTimeOut: 10000
+  connectionRequestTimeOut: 10000
+server:
+  port: 8889
